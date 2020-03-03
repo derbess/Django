@@ -1,0 +1,2 @@
+def art():
+    return None
